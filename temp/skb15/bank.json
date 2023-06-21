@@ -1,0 +1,16 @@
+[
+	{
+		"id": "1",
+		"question": "What is the capital of Bangladesh?",
+		"options": [
+			"New Delhi",
+			"Dhaka",
+			"Thimpu",
+			"London"
+		],
+		"answer": 2,
+		"categories": [
+			"General Knowledge"
+		]
+	}
+]
