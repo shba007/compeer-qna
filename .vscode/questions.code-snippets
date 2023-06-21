@@ -1,0 +1,21 @@
+{
+	"Question": {
+		"scope": "json",
+		"prefix": "qns",
+		"body": [
+			"{",
+			"\"id\": \"$1\",",
+			"\"question\":\"$2\",",
+			"\"options\": [",
+			"\"$3\",",
+			"\"$4\",",
+			"\"$5\",",
+			"\"$6\"",
+			"],",
+			"\"answer\": ${7:1},",
+			"\"categories\": [\"${8}\"]",
+			"},"
+		],
+		"description": "New Question"
+	}
+}
